@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Boutique - la vie des plantes</title>
+	<atom:link href="http://localhost/boutique/feed/?simply_static_page=2705" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Mon, 11 Dec 2023 12:15:54 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/cropped-Favicon-32x32.png</url>
+	<title>Boutique - la vie des plantes</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gerbera</title>
+		<link>https://github.com/Miguel-Hrc/Wordpress.git/produit/gerbera/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=gerbera</link>
+					<comments>https://github.com/Miguel-Hrc/Wordpress.git/produit/gerbera/#respond</comments>
+		
+		<dc:creator><![CDATA[Miguel-Hrc]]></dc:creator>
+		<pubDate>Mon, 11 Dec 2023 10:53:23 +0000</pubDate>
+				<guid isPermaLink="false">https://github.com/Miguel-Hrc/Wordpress.git/?post_type=product#038;p=143</guid>
+
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<p>L’article <a href="https://github.com/Miguel-Hrc/Wordpress.git/produit/gerbera/">Gerbera</a> est apparu en premier sur <a href="https://github.com/Miguel-Hrc/Wordpress.git/">la vie des plantes</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-158" src="https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-karolina-grabowska-4889666-200x300.jpg" alt="" width="200" height="300" srcset="https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-karolina-grabowska-4889666-200x300.jpg 200w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-karolina-grabowska-4889666-683x1024.jpg 683w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-karolina-grabowska-4889666-768x1152.jpg 768w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-karolina-grabowska-4889666-1024x1536.jpg 1024w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-karolina-grabowska-4889666-1365x2048.jpg 1365w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-karolina-grabowska-4889666-1320x1980.jpg 1320w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-karolina-grabowska-4889666-600x900.jpg 600w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-karolina-grabowska-4889666-scaled.jpg 1707w" sizes="(max-width: 200px) 100vw, 200px" /> <img decoding="async" class="alignnone size-medium wp-image-157" src="https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-skylar-kang-6045408-300x199.jpg" alt="" width="300" height="199" srcset="https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-skylar-kang-6045408-300x199.jpg 300w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-skylar-kang-6045408-1024x678.jpg 1024w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-skylar-kang-6045408-768x509.jpg 768w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-skylar-kang-6045408-1536x1017.jpg 1536w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-skylar-kang-6045408-2048x1356.jpg 2048w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-skylar-kang-6045408-1320x874.jpg 1320w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-skylar-kang-6045408-600x397.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /> <img decoding="async" class="alignnone size-medium wp-image-156" src="https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-james-jenny-taylor-12657801-300x200.jpg" alt="" width="300" height="200" srcset="https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-james-jenny-taylor-12657801-300x200.jpg 300w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-james-jenny-taylor-12657801-1024x683.jpg 1024w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-james-jenny-taylor-12657801-768x512.jpg 768w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-james-jenny-taylor-12657801-1536x1024.jpg 1536w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-james-jenny-taylor-12657801-2048x1365.jpg 2048w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-james-jenny-taylor-12657801-1320x880.jpg 1320w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/12/pexels-james-jenny-taylor-12657801-600x400.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /> <img loading="lazy" decoding="async" class="alignnone size-medium wp-image-62" src="https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-ylanite-koppens-2343173-300x200.jpg" alt="" width="300" height="200" srcset="https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-ylanite-koppens-2343173-300x200.jpg 300w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-ylanite-koppens-2343173-scaled-600x400.jpg 600w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-ylanite-koppens-2343173-1024x683.jpg 1024w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-ylanite-koppens-2343173-768x512.jpg 768w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-ylanite-koppens-2343173-1536x1024.jpg 1536w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-ylanite-koppens-2343173-2048x1365.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>L’article <a href="https://github.com/Miguel-Hrc/Wordpress.git/produit/gerbera/">Gerbera</a> est apparu en premier sur <a href="https://github.com/Miguel-Hrc/Wordpress.git/">la vie des plantes</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/Miguel-Hrc/Wordpress.git/produit/gerbera/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Graine de café 200g</title>
+		<link>https://github.com/Miguel-Hrc/Wordpress.git/produit/graine-de-cafe-200g/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=graine-de-cafe-200g</link>
+					<comments>https://github.com/Miguel-Hrc/Wordpress.git/produit/graine-de-cafe-200g/#respond</comments>
+		
+		<dc:creator><![CDATA[Miguel-Hrc]]></dc:creator>
+		<pubDate>Mon, 11 Dec 2023 10:47:08 +0000</pubDate>
+				<guid isPermaLink="false">https://github.com/Miguel-Hrc/Wordpress.git/?post_type=product#038;p=142</guid>
+
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<p>L’article <a href="https://github.com/Miguel-Hrc/Wordpress.git/produit/graine-de-cafe-200g/">Graine de café 200g</a> est apparu en premier sur <a href="https://github.com/Miguel-Hrc/Wordpress.git/">la vie des plantes</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-59" src="https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-maksim-goncharenok-4815956-300x200.jpg" alt="" width="300" height="200" srcset="https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-maksim-goncharenok-4815956-300x200.jpg 300w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-maksim-goncharenok-4815956-scaled-600x400.jpg 600w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-maksim-goncharenok-4815956-1024x683.jpg 1024w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-maksim-goncharenok-4815956-768x512.jpg 768w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-maksim-goncharenok-4815956-1536x1024.jpg 1536w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-maksim-goncharenok-4815956-2048x1365.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>L’article <a href="https://github.com/Miguel-Hrc/Wordpress.git/produit/graine-de-cafe-200g/">Graine de café 200g</a> est apparu en premier sur <a href="https://github.com/Miguel-Hrc/Wordpress.git/">la vie des plantes</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/Miguel-Hrc/Wordpress.git/produit/graine-de-cafe-200g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pot pour cactées</title>
+		<link>https://github.com/Miguel-Hrc/Wordpress.git/produit/pot-pour-cactees/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=pot-pour-cactees</link>
+					<comments>https://github.com/Miguel-Hrc/Wordpress.git/produit/pot-pour-cactees/#respond</comments>
+		
+		<dc:creator><![CDATA[Miguel-Hrc]]></dc:creator>
+		<pubDate>Mon, 11 Dec 2023 10:41:01 +0000</pubDate>
+				<guid isPermaLink="false">https://github.com/Miguel-Hrc/Wordpress.git/?post_type=product#038;p=141</guid>
+
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<p>L’article <a href="https://github.com/Miguel-Hrc/Wordpress.git/produit/pot-pour-cactees/">Pot pour cactées</a> est apparu en premier sur <a href="https://github.com/Miguel-Hrc/Wordpress.git/">la vie des plantes</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-61" src="https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-ylanite-koppens-1445416-300x206.jpg" alt="" width="300" height="206" srcset="https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-ylanite-koppens-1445416-300x206.jpg 300w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-ylanite-koppens-1445416-scaled-600x411.jpg 600w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-ylanite-koppens-1445416-1024x702.jpg 1024w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-ylanite-koppens-1445416-768x527.jpg 768w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-ylanite-koppens-1445416-1536x1053.jpg 1536w, https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/pexels-ylanite-koppens-1445416-2048x1404.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>L’article <a href="https://github.com/Miguel-Hrc/Wordpress.git/produit/pot-pour-cactees/">Pot pour cactées</a> est apparu en premier sur <a href="https://github.com/Miguel-Hrc/Wordpress.git/">la vie des plantes</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/Miguel-Hrc/Wordpress.git/produit/pot-pour-cactees/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

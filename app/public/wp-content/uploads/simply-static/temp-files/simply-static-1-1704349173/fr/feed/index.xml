@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>la vie des plantes</title>
+	<atom:link href="http://localhost/fr/feed/?simply_static_page=2700" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Mon, 04 Dec 2023 00:50:58 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://github.com/Miguel-Hrc/Wordpress.git/wp-content/uploads/2023/11/cropped-Favicon-32x32.png</url>
+	<title>la vie des plantes</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Petits pots</title>
+		<link>https://github.com/Miguel-Hrc/Wordpress.git/fr/petits-pots/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=petits-pots</link>
+					<comments>https://github.com/Miguel-Hrc/Wordpress.git/fr/petits-pots/#respond</comments>
+		
+		<dc:creator><![CDATA[Miguel-Hrc]]></dc:creator>
+		<pubDate>Mon, 04 Dec 2023 00:44:02 +0000</pubDate>
+				<category><![CDATA[petits pots]]></category>
+		<guid isPermaLink="false">https://github.com/Miguel-Hrc/Wordpress.git/?p=84</guid>
+
+					<description><![CDATA[<p>Mini kit de plantation biologique – Radis et Capucine Tournesol Prix : 6,90 € Description : Radis et Capucine : Radis et Capucine, c’est avant tout une histoire de famille. Créée en 1927 en Anjou, [&#8230;]</p>
+<p>L’article <a href="https://github.com/Miguel-Hrc/Wordpress.git/fr/petits-pots/">Petits pots</a> est apparu en premier sur <a href="https://github.com/Miguel-Hrc/Wordpress.git/fr/page-dacceuil-2">la vie des plantes</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="84" class="elementor elementor-84">
+							<div class="elementor-element elementor-element-e334d11 e-flex e-con-boxed e-con e-parent" data-id="e334d11" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-634e7f7 e-con-full e-flex e-con e-child" data-id="634e7f7" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-ed3a2ad elementor-widget elementor-widget-heading" data-id="ed3a2ad" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.18.0 - 20-12-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Mini kit de plantation biologique – Radis et Capucine Tournesol </h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-651dddd elementor-widget elementor-widget-text-editor" data-id="651dddd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.18.0 - 20-12-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Prix : 6,90 €</p>
+<p>Description : Radis et Capucine : Radis et Capucine, c’est avant tout une histoire de famille. Créée en 1927 en Anjou, l’entreprise produit des graines depuis trois générations. Leurs valeurs sont simples : démocratiser le jardinage et surtout en faire une activité ludique et pédagogique pour toute la famille.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-fee0c2e elementor-align-center elementor-widget elementor-widget-button" data-id="fee0c2e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">En savoir plus</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-cc8d4aa e-con-full e-flex e-con e-child" data-id="cc8d4aa" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-3492400 elementor-widget elementor-widget-heading" data-id="3492400" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Mini kit de plantation biologique – Radis et Capucine Coquelicot </h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9e23b9c elementor-widget elementor-widget-text-editor" data-id="9e23b9c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Prix : 6,90 €</p><p>Description : Radis et Capucine : Radis et Capucine, c’est avant tout une histoire de famille. Ces petits pots de céramique vous permettront de voir pousser de jolies plantes. Issus de l’agriculture biologique, les mini kits Radis et Capucine sont assemblés en France. Composition : 1 pot en céramique, 1 plaquette de terre coco déshydratée, graines/bulbes.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-173fbb2 elementor-align-center elementor-widget elementor-widget-button" data-id="173fbb2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">En savoir plus</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5ee86ba e-con-full e-flex e-con e-child" data-id="5ee86ba" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-956a3db elementor-widget elementor-widget-heading" data-id="956a3db" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Mini kit de plantation biologique – Radis et Capucine Trèfle  </h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b31bacf elementor-widget elementor-widget-text-editor" data-id="b31bacf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Prix : 6,90 €</p>
+<p>Description : Radis et Capucine : Radis et Capucine, c’est avant tout une histoire de famille. Ces petits pots de céramique vous permettront de voir pousser de jolies plantes. Issus de l’agriculture biologique, les mini kits Radis et Capucine sont assemblés en France. Composition : 1 pot en céramique, 1 plaquette de terre coco déshydratée, graines/bulbes.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2dcb761 elementor-align-center elementor-widget elementor-widget-button" data-id="2dcb761" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">En savoir plus</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		<p>L’article <a href="https://github.com/Miguel-Hrc/Wordpress.git/fr/petits-pots/">Petits pots</a> est apparu en premier sur <a href="https://github.com/Miguel-Hrc/Wordpress.git/fr/page-dacceuil-2">la vie des plantes</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/Miguel-Hrc/Wordpress.git/fr/petits-pots/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
