@@ -1,0 +1,26 @@
+2023-12-12T12:15:17+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-content\plugins\polylang\include\query.php:73
+Stack trace:
+#0 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-content\plugins\polylang\include\query.php(78): PLL_Query->have_translated_taxonomy(Array)
+#1 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-content\plugins\polylang\include\query.php(166): PLL_Query->have_translated_taxonomy(Array)
+#2 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-content\plugins\polylang\admin\admin-filters-post.php(121): PLL_Query->filter_query(false)
+#3 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-includes\class-wp-hook.php(324): PLL_Admin_Filters_Post->parse_query(Object(WP_Query))
+#4 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#6 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-includes\class-wp-query.php(1140): do_action_ref_array('parse_query', Array)
+#7 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-includes\class-wp-query.php(1868): WP_Query->parse_query()
+#8 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-includes\class-wp-query.php(3824): WP_Query->get_posts()
+#9 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-includes\class-wp-query.php(3956): WP_Query->query(Array)
+#10 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-content\plugins\woolentor-addons\includes\addons\product_tabs.php(1389): WP_Query->__construct(Array)
+#11 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2297): Elementor\Woolentor_Product_Tabs_Widget->render()
+#12 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#13 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\core\base\document.php(328): Elementor\Widget_Base->render_content()
+#14 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\includes\managers\widgets.php(459): Elementor\Core\Base\Document->render_element(Array)
+#15 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#16 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#17 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#18 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#19 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#20 C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_element...')
+#21 {main}
+  thrown dans C:\Users\Migu-\Local Sites\laviedesplantes\app\public\wp-content\plugins\polylang\include\query.php à la ligne 73
+
